@@ -1,16 +1,13 @@
 # music_app
 
-A new Flutter project.
+Simple musical sounds.
 
-## Getting Started
+## video
 
-This project is a starting point for a Flutter application.
+![مقطع توضيحي لتطبيق](assets/video.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](assets/imeg1.png)
+![](assets/imeg2.png)
+.
